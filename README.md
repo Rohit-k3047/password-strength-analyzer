@@ -1,6 +1,37 @@
 # 🔐 Password Strength Analyzer
 
+[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)
+[![Release](https://img.shields.io/github/v/release/Rohit-k3047/password-strength-analyzer)](https://github.com/Rohit-k3047/password-strength-analyzer/releases)
+[![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)](https://github.com/Rohit-k3047/password-strength-analyzer)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)
+[![Release](https://img.shields.io/github/v/release/Rohit-k3047/password-strength-analyzer)](https://github.com/Rohit-k3047/password-strength-analyzer/releases)
+[![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)](https://github.com/Rohit-k3047/password-strength-analyzer)
+
 A Python-based cybersecurity application that evaluates password security using multiple security checks, entropy analysis, password-pattern detection, breach checking, and secure password generation.
+
+## 📸 Screenshots
+
+### Password Analysis
+
+![Strong Password Analysis](screenshots/strong-password.png)
+
+### Weak Password Detection
+
+![Weak Password Analysis](screenshots/weak-password.png)
+
+### Secure Password Generator
+
+![Secure Password Generator](screenshots/generator.png)
+
+## 🪟 Download
+
+Want to use the application without installing Python?
+
+Download the latest Windows executable:
+
+👉 [**Download PasswordAnalyzer.exe**](https://github.com/Rohit-k3047/password-strength-analyzer/releases/latest)
 
 ## 🚀 Features
 
